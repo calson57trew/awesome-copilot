@@ -7,7 +7,7 @@
 
 This is a community-driven fork of [github/awesome-copilot](https://github.com/github/awesome-copilot), extending the collection with additional resources, agent workflows, and marketplace plugins.
 
-> **Personal fork note:** I'm using this repo to experiment with custom Copilot instructions for TypeScript and Python projects. Feel free to browse but note some sections may be works-in-progress. Currently focusing on React/Next.js and FastAPI workflows.
+> **Personal fork note:** I'm using this repo to experiment with custom Copilot instructions for TypeScript and Python projects. Feel free to browse but note some sections may be works-in-progress. Currently focusing on React/Next.js and FastAPI workflows. Also exploring custom instructions for Go and Terraform.
 
 ## Contents
 

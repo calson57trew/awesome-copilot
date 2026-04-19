@@ -22,6 +22,7 @@ Custom `.github/copilot-instructions.md` files that tailor Copilot's behavior fo
 
 - See [`.github/copilot-instructions.md`](.github/copilot-instructions.md) for the project's own instructions.
 - See [`.github/copilot-instructions-go.md`](.github/copilot-instructions-go.md) for Go-specific instructions (chi router + sqlc patterns).
+- See [`.github/copilot-instructions-terraform.md`](.github/copilot-instructions-terraform.md) for Terraform instructions (AWS, module structure).
 
 ## Agent Workflows
 
@@ -65,4 +66,5 @@ Thanks to all our contributors! See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the f
 - [x] Add custom instructions for Terraform (AWS, module structure) — done, see `.github/copilot-instructions-terraform.md`
 - [ ] Try out the agentic workflow for automated PR descriptions
 - [ ] Look into custom instructions for pytest + hypothesis property-based testing
-- [ ] Explore custom instructions for React Query v5 + Zod validation patterns
+- [ ] Explore custom instructions for React Query + Zustand state management patterns
+- [ ] Add custom instructions for OpenAPI/Swagger spec generation with FastAPI

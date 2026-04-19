@@ -21,6 +21,7 @@ This is a community-driven fork of [github/awesome-copilot](https://github.com/g
 Custom `.github/copilot-instructions.md` files that tailor Copilot's behavior for specific languages, frameworks, or workflows.
 
 - See [`.github/copilot-instructions.md`](.github/copilot-instructions.md) for the project's own instructions.
+- See [`.github/copilot-instructions-go.md`](.github/copilot-instructions-go.md) for Go-specific instructions (chi router + sqlc patterns).
 
 ## Agent Workflows
 
@@ -61,6 +62,7 @@ Thanks to all our contributors! See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the f
 
 <!-- Personal bookmarks and reminders for my own use -->
 - [x] Add custom instructions for Go (chi router + sqlc patterns) — done, see `.github/copilot-instructions-go.md`
-- [ ] Add custom instructions for Terraform (AWS, module structure)
+- [x] Add custom instructions for Terraform (AWS, module structure) — done, see `.github/copilot-instructions-terraform.md`
 - [ ] Try out the agentic workflow for automated PR descriptions
 - [ ] Look into custom instructions for pytest + hypothesis property-based testing
+- [ ] Explore custom instructions for React Query v5 + Zod validation patterns

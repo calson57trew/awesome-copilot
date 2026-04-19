@@ -56,3 +56,10 @@ Thanks to all our contributors! See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the f
 ## License
 
 [CC0 1.0 Universal](LICENSE) — Public Domain Dedication.
+
+## Personal Notes
+
+<!-- Personal bookmarks and reminders for my own use -->
+- [ ] Add custom instructions for Go (chi router + sqlc patterns)
+- [ ] Add custom instructions for Terraform (AWS, module structure)
+- [ ] Try out the agentic workflow for automated PR descriptions

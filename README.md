@@ -64,7 +64,6 @@ Thanks to all our contributors! See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the f
 <!-- Personal bookmarks and reminders for my own use -->
 - [x] Add custom instructions for Go (chi router + sqlc patterns) — done, see `.github/copilot-instructions-go.md`
 - [x] Add custom instructions for Terraform (AWS, module structure) — done, see `.github/copilot-instructions-terraform.md`
-- [ ] Try out the agentic workflow for automated PR descriptions
-- [ ] Look into custom instructions for pytest + hypothesis property-based testing
-- [ ] Explore custom instructions for React Query + Zustand state management patterns
-- [ ] Add custom instructions for OpenAPI/Swagger spec generation with FastAPI
+- [x] Try out the agentic workflow for automation — done, see `.github/agents/agentic-workflows.agent.md`
+- [ ] Add custom instructions for React/Next.js (app router, server components)
+- [ ] Add custom instructions for FastAPI (async patterns, Pydantic v2)

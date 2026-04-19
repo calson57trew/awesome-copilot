@@ -60,6 +60,7 @@ Thanks to all our contributors! See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the f
 ## Personal Notes
 
 <!-- Personal bookmarks and reminders for my own use -->
-- [ ] Add custom instructions for Go (chi router + sqlc patterns)
+- [x] Add custom instructions for Go (chi router + sqlc patterns) — done, see `.github/copilot-instructions-go.md`
 - [ ] Add custom instructions for Terraform (AWS, module structure)
 - [ ] Try out the agentic workflow for automated PR descriptions
+- [ ] Look into custom instructions for pytest + hypothesis property-based testing

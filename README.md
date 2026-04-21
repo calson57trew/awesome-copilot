@@ -23,6 +23,7 @@ Custom `.github/copilot-instructions.md` files that tailor Copilot's behavior fo
 - See [`.github/copilot-instructions.md`](.github/copilot-instructions.md) for the project's own instructions.
 - See [`.github/copilot-instructions-go.md`](.github/copilot-instructions-go.md) for Go-specific instructions (chi router + sqlc patterns).
 - See [`.github/copilot-instructions-terraform.md`](.github/copilot-instructions-terraform.md) for Terraform instructions (AWS, module structure).
+- See [`.github/copilot-instructions-react.md`](.github/copilot-instructions-react.md) for React/Next.js instructions (App Router, Tailwind, shadcn/ui patterns).
 
 ## Agent Workflows
 
@@ -64,6 +65,6 @@ Thanks to all our contributors! See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the f
 <!-- Personal bookmarks and reminders for my own use -->
 - [x] Add custom instructions for Go (chi router + sqlc patterns) — done, see `.github/copilot-instructions-go.md`
 - [x] Add custom instructions for Terraform (AWS, module structure) — done, see `.github/copilot-instructions-terraform.md`
-- [x] Try out the agentic workflow for automation — done, see `.github/agents/agentic-workflows.agent.md`
-- [ ] Add custom instructions for React/Next.js (app router, server components)
-- [ ] Add custom instructions for FastAPI (async patterns, Pydantic v2)
+- [x] Try out the agentic workflow for automating PR descriptions — works well, needs prompt tuning
+- [ ] Add custom instructions for React/Next.js (App Router + Tailwind + shadcn/ui) — in progress
+- [ ] Explore FastAPI instructions (Pydantic v2, async routes, dependency injection patterns)

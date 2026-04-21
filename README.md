@@ -63,8 +63,10 @@ Thanks to all our contributors! See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the f
 
 ## Personal Notes
 
-<!-- Personal bookmarks and reminders for my own use -->
-- [x] Add custom instructions for Go (chi router + sqlc patterns) — done, see `.github/copilot-instructions-go.md`
-- [x] Add custom instructions for React/Next.js — done, see `.github/copilot-instructions-react.md`
-- [ ] Add custom instructions for FastAPI — in progress, see `.github/copilot-instructions-fastapi.md`
-- [ ] Explore agent workflow for automated PR review
+<!-- Personal tracking of what I've tried and found useful -->
+
+- **React/Next.js instructions** — Working well for App Router projects. The shadcn/ui patterns save a lot of back-and-forth.
+- **FastAPI instructions** — Pydantic v2 migration tips are solid. Still tweaking the dependency injection examples.
+- **Go instructions** — Early stages. Chi router patterns are good but need to add more sqlc query examples.
+- **Terraform instructions** — Mostly using for AWS Lambda + API Gateway setups. Module structure guidance is helpful.
+- **TODO:** Add custom instructions for testing (Vitest for TS, pytest for Python).
